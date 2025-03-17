@@ -1,0 +1,144 @@
+{
+  "name": "Perfo Themes",
+  "description": "Perfo Baba Özel Temalar",
+  "version": "2.0.6",
+  "identifier": "de.perfo.themes",
+  "engines": {
+    "teamspeak": 1
+  },
+  "repository": {
+    "url": "https://github.com/Perfoc/teamspeak6-themes",
+    "type": "git",
+    "directory": "de.perfo.themes"
+  },
+  "image": "perfo.png",
+  "license": "MIT",
+  "author": {
+    "name": "Perfo",
+    "userTag": "Perfonline@myteamspeak.com"
+  },
+  "content": {
+    "themes": [
+      {
+        "name": "Megumin",
+        "source": "Megumin.css",
+        "image": "Megumin.png",
+        "apiVersion": 1
+      },
+      {
+        "name": "Koneko",
+        "source": "Koneko.css",
+        "image": "Koneko.png",
+        "apiVersion": 1
+      },
+      {
+        "name": "Goku [GIF]",
+        "source": "Goku_GIF.css",
+        "image": "Goku_GIF.png",
+        "apiVersion": 1
+      },
+      {
+        "name": "Rem_",
+        "source": "Rem.css",
+        "image": "Rem_Thumbn.png",
+        "apiVersion": 1
+      },
+      {
+        "name": "002_",
+        "source": "ZeroTwo.css",
+        "image": "ZeroTwo.png",
+        "apiVersion": 1
+      },
+      {
+        "name": "Lucy",
+        "source": "Lucy.css",
+        "image": "Lucy.png",
+        "apiVersion": 1
+      },
+      {
+        "name": "Darkness",
+        "source": "Darkness.css",
+        "image": "Darkness.png",
+        "apiVersion": 1
+      },
+      {
+        "name": "Akeno",
+        "source": "Akeno.css",
+        "image": "Akeno.png",
+        "apiVersion": 1
+      },
+      {
+        "name": "Morgania",
+        "source": "Morgania.css",
+        "image": "Morgania.png",
+        "apiVersion": 1
+      },
+      {
+        "name": "Shiro",
+        "source": "Shiro.css",
+        "image": "Shiro.png",
+        "apiVersion": 1
+      },
+      {
+        "name": "Jibril",
+        "source": "Jibril.css",
+        "image": "Jibril.png",
+        "apiVersion": 1
+      },
+      {
+        "name": "Tsunade",
+        "source": "Tsunade.css",
+        "image": "Tsunade.png",
+        "apiVersion": 1
+      },
+      {
+        "name": "One Punch Man",
+        "source": "One_punch_man.css",
+        "image": "One_punch_man.png",
+        "apiVersion": 1
+      },
+      {
+        "name": "Kenma",
+        "source": "Kenma_2.css",
+        "image": "Kenma.png",
+        "apiVersion": 1
+      },
+      {
+        "name": "Rias",
+        "source": "Rias.css",
+        "image": "Rias.png",
+        "apiVersion": 1
+      },
+      {
+        "name": "Ichigo Shikai",
+        "source": "Ichigo.css",
+        "image": "Ichigo.png",
+        "apiVersion": 1
+      },
+      {
+        "name": "Aizen Third Fusion",
+        "source": "Aizen.css",
+        "image": "Aizen.png",
+        "apiVersion": 1
+      },
+      {
+        "name": "Madara Uchiha",
+        "source": "Madara.css",
+        "image": "Madara.png",
+        "apiVersion": 1
+      },
+      {
+        "name": "Black Asta",
+        "source": "Asta.css",
+        "image": "Asta.png",
+        "apiVersion": 1
+      },
+      {
+        "name": "Erza",
+        "source": "Erza.css",
+        "image": "Erza.png",
+        "apiVersion": 1
+      }
+    ]
+  }
+}
