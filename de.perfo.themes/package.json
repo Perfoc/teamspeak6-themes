@@ -32,12 +32,6 @@
         "apiVersion": 1
       },
       {
-        "name": "Goku [GIF]",
-        "source": "Goku_GIF.css",
-        "image": "Goku_GIF.png",
-        "apiVersion": 1
-      },
-      {
         "name": "Rem_",
         "source": "Rem.css",
         "image": "Rem_Thumbn.png",
@@ -92,12 +86,6 @@
         "apiVersion": 1
       },
       {
-        "name": "One Punch Man",
-        "source": "One_punch_man.css",
-        "image": "One_punch_man.png",
-        "apiVersion": 1
-      },
-      {
         "name": "Kenma",
         "source": "Kenma_2.css",
         "image": "Kenma.png",
@@ -110,34 +98,28 @@
         "apiVersion": 1
       },
       {
-        "name": "Ichigo Shikai",
-        "source": "Ichigo.css",
-        "image": "Ichigo.png",
-        "apiVersion": 1
-      },
-      {
-        "name": "Aizen Third Fusion",
-        "source": "Aizen.css",
-        "image": "Aizen.png",
-        "apiVersion": 1
-      },
-      {
-        "name": "Madara Uchiha",
-        "source": "Madara.css",
-        "image": "Madara.png",
-        "apiVersion": 1
-      },
-      {
-        "name": "Black Asta",
-        "source": "Asta.css",
-        "image": "Asta.png",
-        "apiVersion": 1
-      },
-      {
         "name": "Erza",
         "source": "Erza.css",
         "image": "Erza.png",
         "apiVersion": 1
+      }
+    ],
+    "sounds": [
+      {
+        "event": "connected",
+        "file": "join.wav"
+      },
+      {
+        "event": "disconnected",
+        "file": "leave.wav"
+      },
+      {
+        "event": "channel_join",
+        "file": "join.wav"
+      },
+      {
+        "event": "channel_leave",
+        "file": "leave.wav"
       }
     ]
   }
