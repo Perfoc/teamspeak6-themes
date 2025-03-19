@@ -1,7 +1,7 @@
 {
   "name": "Perfo Themes",
   "description": "Perfo Baba Özel Temalar",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "identifier": "de.perfo.themes",
   "engines": {
     "teamspeak": 1
